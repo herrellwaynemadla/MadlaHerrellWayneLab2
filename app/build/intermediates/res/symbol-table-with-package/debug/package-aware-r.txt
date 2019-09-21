@@ -881,7 +881,7 @@ id bottom
 id bounce
 id btnNext
 id btnSave
-id button
+id btnVerify
 id buttonPanel
 id center
 id center_horizontal
@@ -1093,7 +1093,6 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_2
-layout activity_3
 layout activity_main
 layout custom_dialog
 layout notification_action
